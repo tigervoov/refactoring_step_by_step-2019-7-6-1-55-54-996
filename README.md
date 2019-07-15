@@ -3,3 +3,5 @@
 1.在Driver类中设置变量age的权限为private
 2.给外界访问age的getAge方法
 3.修改Police中的checkDriver方法，driver通过getAge方法去访问私有Driver的私有变量age
+4.将18定义成price下的一个final的变量，成为place判断是否成年的规定年龄。
+5.方法名字可以修改为checkDriverIsAdult.
